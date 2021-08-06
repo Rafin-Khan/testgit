@@ -1,5 +1,4 @@
-git clone (url) #test
-git add (file names)
+git clone (url)
+git add (file names) or --all
 git commit -m "(committed message)
-git push -u HEAD:main
-git remote add origin master (url)
+git push -u origin main
